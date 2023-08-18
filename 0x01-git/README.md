@@ -1,0 +1,1 @@
+Getting sarted with Git
